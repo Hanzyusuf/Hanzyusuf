@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hanzala</h1>
-<h3 align="center">A passionate game developer interested in all types of technology related to electornic hardware and software.</h3>
+<h3 align="center">A passionate game developer, interested in all types of technology.</h3>
 
 - 🔭 I’m currently working on **An android game**
 
