@@ -19,6 +19,8 @@
 
 - ⚡ Fun fact **Can only work on things that peek my interest xd**
 
+- 🇫 Social Media **https://www.facebook.com/hanzyusuf99/**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
