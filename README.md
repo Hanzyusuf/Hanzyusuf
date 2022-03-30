@@ -3,17 +3,17 @@
 
 - 🔭 I’m currently working on **An android game**
 
-- 🌱 I’m currently learning **cooking :p**
+- 🌱 I’m currently learning **everything... and cooking :p**
 
 - 👯 I’m looking to collaborate on **anything which provokes my interest :)**
 
-- 🤝 I’m looking for help with **startups related to the agriculture/farming sector.**
+- 🤝 I’m looking for help with **awesome games for mobile including VR.**
 
 - 👨‍💻 All of my projects are available at [not yet finished :(](not yet finished :()
 
 - 📝 I regularly write articles on [need someone to format my rough notes :(](need someone to format my rough notes :()
 
-- 💬 Ask me about **java, android, c++, react, node, full stack development, security, etc**
+- 💬 Ask me about **java, android, c++, react, node, js, android, full stack web dev using HTML5/CSS3/JS + PHP, etc**
 
 - 📫 How to reach me **hanzyusuf@gmail.com OR hanzyusuf.work@gmail.com**
 
