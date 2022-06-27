@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hanzala</h1>
 <h3 align="center">A passionate game developer, interested in all types of technology.</h3>
 
-- 🔭 I’m currently working on **An android game** Try it here: [https://play.google.com/store/apps/details?id=com.CreepyTickles.Bullfighting]
+- 🔭 I’m currently working on **An android game**. Try it here: **https://play.google.com/store/apps/details?id=com.CreepyTickles.Bullfighting**
 
 - 🌱 I’m currently learning **everything... and cooking :p**
 
