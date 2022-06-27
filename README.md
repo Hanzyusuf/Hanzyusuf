@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **An android game**. 
   
-  Try it here: **https://play.google.com/store/apps/details?id=com.CreepyTickles.Bullfighting**
+    Try it here: **https://play.google.com/store/apps/details?id=com.CreepyTickles.Bullfighting**
 
 - 🌱 I’m currently learning **everything... and cooking :p**
 
