@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Hanzala</h1>
 <h3 align="center">A passionate game developer, interested in all types of technology.</h3>
 
-- 🔭 I’m currently working on **An android game**. 
-  
-    Try it here: **https://play.google.com/store/apps/details?id=com.CreepyTickles.Bullfighting**
+- 🔗 You can find my projects at [My Portfolio](https://hanzyusuf.github.io/)
+
+- 🔭 I’m currently working on **multiple projects**.
 
 - 🌱 I’m currently learning **everything... and cooking :p**
 
 - 👯 I’m looking to collaborate on **anything which provokes my interest :)**
 
-- 🤝 I’m looking for help with **awesome games for mobile including VR.**
-
-- 👨‍💻 All of my projects are available at [not yet finished :(](not yet finished :()
+- 🤝 I’m looking for help with **awesome games for mobile.**
 
 - 📝 I regularly write articles on [need someone to format my rough notes :(](need someone to format my rough notes :()
 
-- 💬 Ask me about **java, android, c++, react, node, js, android, full stack web dev using HTML5/CSS3/JS + PHP, etc**
+- 💬 Ask me about **java, android, c++, C#, react, node, js, android, full stack web dev using HTML5/CSS3/JS + PHP, etc**
 
 - 📫 How to reach me **hanzyusuf@gmail.com OR hanzyusuf.work@gmail.com**
 
