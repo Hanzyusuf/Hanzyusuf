@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋, I'm Hanzala</h1>
 <h3 align="center">A passionate game developer, interested in all types of technology.</h3>
 
+<!-- ## 📊 GitHub Statistics -->
+
+<p align="center">
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
+</p>
+
+<!-- ## 💻 Most Used Languages -->
+
+<p align="center">
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
+</p>
+
 - 🔗 You can find my projects at [My Portfolio](https://hanzyusuf.github.io/)
 
 - 🔭 I’m currently working on **multiple projects**.
